@@ -2,7 +2,7 @@
 This repository hosts the large-scale, open-source software systems used to evaluate the scalability of Human–AI Collaborative (HAC) software refactoring. By providing standardized benchmarks, this project delivers clear, empirical insights into how effectively HAC refactoring scales for both academia and industry.
 
 The published GitHub organization (https://github.com/ST-Large-Software-Projects/) contains a collection of large-scale software project repositories under the MIT License.
-<br>~Last Updated: 2026 September 30
+<br>~Last Updated: 28 September 2026
 
 ## PHP School Management System (SMS)
 The School Management System is a PHP web application using MySQL and commonly manages teachers, students, classes, subjects, sections, student attendance, etc.
