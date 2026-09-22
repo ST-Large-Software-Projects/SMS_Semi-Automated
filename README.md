@@ -16,10 +16,10 @@ The School Management System is a PHP web application using MySQL and commonly m
 [![LSP PHP School Management System Selenium Tests](https://github.com/ST-Large-Software-Projects/SMS_Original/blob/main/automated_selenium_tests.png)](https://youtu.be/t_VI8RHFbrY)
 
 ## Citation
-Please cite the following paper if you use this repository in your academic research:
+Please cite the following paper if you use this repository in your academic research
 
 # Author and Contributor
-Sivaranjei Thambipillai (MSc, BSc), University of Colombo, Sri Lanka.
+Sivaranjei Thambipillai (MSc, BSc), University of Colombo, Sri Lanka
 
 ## License
 MIT License – <a href="https://github.com/ST-Large-Software-Projects/SMS_Original/blob/main/LICENSE" target="_blank">Pre-Refactored</a>, <a href="https://github.com/ST-Large-Software-Projects/SMS_Semi-Automated/blob/main/LICENSE" target="_blank">SAR</a>, Copyright (c) 2026 ST-Large-Software-Projects – Sivaranjei Thambipillai
